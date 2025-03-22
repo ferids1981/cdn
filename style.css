@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Viga&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap");
+
+.gbrLogo {
+    margin-top: 6vh !important;
+    width: 60vh;
+}
+
+.box {
+font-family: "Winky Sans", sans-serif;
+width: 300px;
+height: 335px !important;
+background-color: #C0C0C0;
+margin-top: 5vh !important;
+margin-bottom: 0px !important;
+margin: auto;
+padding: 15px !important;
+border-radius: 10px;
+background: linear-gradient(to right, rgb(252, 252, 252), rgb(247, 246, 246));
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0px;
+}
+
+.box .kepala {
+text-align: center;
+margin-bottom: 30px;
+}
+
+.box .isi .tombol .tAne {
+transition: 0.5s ease;
+}
+
+.box .isi .tombol .tAne {
+opacity: 0.8;
+}
+
+.kaki {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    background-color: #FFFFFF;background: linear-gradient(to right, rgb(252, 252, 252), rgb(247, 246, 246));
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin:auto;
+    padding: 5px;
+}
